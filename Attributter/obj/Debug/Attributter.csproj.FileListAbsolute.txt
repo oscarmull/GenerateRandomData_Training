@@ -1,0 +1,5 @@
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\TestCaseCreator\Attributter\bin\Debug\Attributter.dll
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\TestCaseCreator\Attributter\bin\Debug\Attributter.pdb
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\TestCaseCreator\Attributter\obj\Debug\Attributter.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\TestCaseCreator\Attributter\obj\Debug\Attributter.dll
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\TestCaseCreator\Attributter\obj\Debug\Attributter.pdb
