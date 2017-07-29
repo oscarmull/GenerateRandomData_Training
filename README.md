@@ -1,4 +1,2 @@
-# VP_DataTraining
-Repo for Create Test Data training
-Name: Oscar Mullin
-Content: Repo for hosting proof of concept for Training in Velocity Partners about creation of Demo and Test data using Faker, Faker.NET and NBuilder.
+# Data Generation for Test Cases
+This repo contains the code created for giving a training on data generation
